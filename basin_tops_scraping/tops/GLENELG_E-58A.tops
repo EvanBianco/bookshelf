@@ -1,0 +1,24 @@
+# Full Name : SHELL PETROCAN ET AL GLENELG E-58A 
+# Rotary Table : 24 M 
+# Water Depth : 79 M 
+# UWI : 300 E58 43400 60001 
+# Regulator Sequence Number : D998 
+# Spud Date : 29-AUG-1984 
+# Total Depth : 4192 M 
+# Basin : SCOTIAN BASIN 
+# Subbasin : SABLE SUBBASIN 
+# Latitude (NAD27) : 43.62161 
+# Longitude (NAD27) : -60.14772 
+# Northing (NAD27) : 4833585.0 
+# Easting (NAD27) : 730139.0 
+# Latitude (NAD83) : 43.621683 
+# Longitude (NAD83) : -60.146964 
+# Northing (NAD83) : 4833811.0 
+# Easting (NAD83) : 730193.0 
+# Zone (UTM) : 20 
+# Common Name : GLENELG E-58A 
+# Year, Author, Depth Type, Top, Bottom, Units, Formation
+1993, MACLEAN,B.C. & WADE,J.A., MD, , 3356, M, LOGAN CANYON FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3106, 3356, M, NASKAPI MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3356, 4104, M, MISSISAUGA FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3356, 4104, M, MISSISAUGA UPPER MB

@@ -1,0 +1,30 @@
+# Full Name : PETRO-CANADA ET AL BONNET P-23 
+# Rotary Table : 25 M 
+# Water Depth : 133.5 M 
+# UWI : 300 P23 42300 65000 
+# Regulator Sequence Number : D244 
+# Spud Date : 14-JAN-1984 
+# Total Depth : 4336 M 
+# Basin : SCOTIAN BASIN 
+# Subbasin : LAHAVE PLATFORM 
+# Latitude (NAD27) : 42.38018 
+# Longitude (NAD27) : -65.05052 
+# Northing (NAD27) : 4693811.0 
+# Easting (NAD27) : 331187.0 
+# Latitude (NAD83) : 42.380267 
+# Longitude (NAD83) : -65.049881 
+# Northing (NAD83) : 4694033.0 
+# Easting (NAD83) : 331245.0 
+# Zone (UTM) : 20 
+# Common Name : BONNET P-23 
+# Year, Author, Depth Type, Top, Bottom, Units, Formation
+1993, MACLEAN,B.C. & WADE,J.A., MD, , 1762.5, M, BANQUEREAU FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1762.5, 1762.5, M, (UNCONFORMITY)
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1762.5, 1796, M, LOGAN CANYON FM ?
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1762.5, 1796, M, NASKAPI MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1796, 2091.5, M, ROSEWAY UNIT ?
+1993, MACLEAN,B.C. & WADE,J.A., MD, 2091.5, 3525, M, ABENAKI FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 2091.5, 3178.6, M, BACCARO MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3178.6, 3346.5, M, MISAINE MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3346.5, 3525, M, SCATARIE MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3525, 4336, M, IROQUOIS FM

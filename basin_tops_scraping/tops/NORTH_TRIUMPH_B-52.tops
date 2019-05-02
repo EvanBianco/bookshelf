@@ -1,0 +1,30 @@
+# Full Name : SHELL PCI ET AL NORTH TRIUMPH B-52 
+# Rotary Table : 24 M 
+# Water Depth : 81 M 
+# UWI : 300 B52 43500 59450 
+# Regulator Sequence Number : D289 
+# Spud Date : 24-JAN-1986 
+# Total Depth : 3962 M 
+# Basin : SCOTIAN BASIN 
+# Subbasin : SABLE SUBBASIN 
+# Latitude (NAD27) : 43.68401 
+# Longitude (NAD27) : -59.88251 
+# Northing (NAD27) : 4840600.0 
+# Easting (NAD27) : 267663.0 
+# Latitude (NAD83) : 43.684081 
+# Longitude (NAD83) : -59.881744 
+# Northing (NAD83) : 4840821.0 
+# Easting (NAD83) : 267732.0 
+# Zone (UTM) : 21 
+# Common Name : NORTH TRIUMPH B-52 
+# Year, Author, Depth Type, Top, Bottom, Units, Formation
+1993, MACLEAN,B.C. & WADE,J.A., MD, , 1657.3, M, BANQUEREAU FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1657.3, 1780.6, M, WYANDOT FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1780.6, 1878.3, M, DAWSON CANYON FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1842, 1843.5, M, PETREL MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1878.3, 3756.5, M, LOGAN CANYON FM
+1993, MACLEAN,B.C. & WADE,J.A., MD, 1878.3, 2409.4, M, MARMORA MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 2409.4, 2555.6, M, SABLE MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 2555.6, 3406.6, M, CREE MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3406.6, 3756.5, M, NASKAPI MB
+1993, MACLEAN,B.C. & WADE,J.A., MD, 3756.5, 3960, M, MISSISAUGA FM
